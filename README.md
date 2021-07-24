@@ -1,1 +1,4 @@
 # git-cource
+
+
+## poroject notes
